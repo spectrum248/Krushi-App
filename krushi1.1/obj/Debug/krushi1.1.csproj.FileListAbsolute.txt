@@ -1,0 +1,84 @@
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\csc.exe
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\vbc.exe
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\krushi1.1.dll.config
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\krushi1.1.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\krushi1.1.pdb
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\Google.Protobuf.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\obj\Debug\krushi1.1.dll
+c:\users\watashi_no_sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\obj\Debug\krushi1.1.pdb
+C:\Users\Watashi_no_Sekai\documents\visual studio 2015\Projects\krushi1.1\krushi1.1\obj\Debug\krushi1.1.csprojResolveAssemblyReference.cache
+G:\krushi1.1\krushi1.1\bin\roslyn\csc.exe
+G:\krushi1.1\krushi1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\krushi1.1\krushi1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\krushi1.1\krushi1.1\bin\roslyn\System.Collections.Immutable.dll
+G:\krushi1.1\krushi1.1\bin\roslyn\System.Reflection.Metadata.dll
+G:\krushi1.1\krushi1.1\bin\roslyn\vbc.exe
+G:\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe
+G:\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe.config
+G:\krushi1.1\krushi1.1\bin\krushi1.1.dll.config
+G:\krushi1.1\krushi1.1\bin\krushi1.1.dll
+G:\krushi1.1\krushi1.1\bin\krushi1.1.pdb
+G:\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\krushi1.1\krushi1.1\bin\Google.Protobuf.dll
+G:\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\krushi1.1\krushi1.1\obj\Debug\krushi1.1.csprojResolveAssemblyReference.cache
+G:\krushi1.1\krushi1.1\obj\Debug\krushi1.1.dll
+G:\krushi1.1\krushi1.1\obj\Debug\krushi1.1.pdb
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\csc.exe
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\System.Collections.Immutable.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\System.Reflection.Metadata.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\vbc.exe
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe
+F:\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe.config
+F:\krushi1.7\krushi1.1\krushi1.1\bin\krushi1.1.dll.config
+F:\krushi1.7\krushi1.1\krushi1.1\bin\krushi1.1.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\krushi1.1.pdb
+F:\krushi1.7\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\Google.Protobuf.dll
+F:\krushi1.7\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\krushi1.7\krushi1.1\krushi1.1\obj\Debug\krushi1.1.csprojResolveAssemblyReference.cache
+F:\krushi1.7\krushi1.1\krushi1.1\obj\Debug\krushi1.1.dll
+F:\krushi1.7\krushi1.1\krushi1.1\obj\Debug\krushi1.1.pdb
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\csc.exe
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\System.Collections.Immutable.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\System.Reflection.Metadata.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\vbc.exe
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\roslyn\VBCSCompiler.exe.config
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\krushi1.1.dll.config
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\krushi1.1.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\krushi1.1.pdb
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\Google.Protobuf.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\obj\Debug\krushi1.1.csprojResolveAssemblyReference.cache
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\obj\Debug\krushi1.1.dll
+S:\New folder\OLD Projects\krushi1.7\krushi1.1\krushi1.1\obj\Debug\krushi1.1.pdb

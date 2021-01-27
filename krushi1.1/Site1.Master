@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="krushi1._1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+ <link href="master.css" rel="stylesheet" />
+    <link href="main.css" rel="stylesheet" />
+    <link href="util.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+<div>
+    <h1>Krushi app</h1>
+</div>
+  <div class="navbar">
+           <br />
+ 
+      <a href="home.aspx?">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Categories 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="Fertilizers.aspx">Fertilizers</a>
+      <a href="Pestisides.aspx">Pestisides</a>
+      <a href="Seeds.aspx">Seeds</a>
+      <a href="Equipments.aspx">Equipments</a>
+    </div>
+  </div>
+  <a href="Contact.aspx">Contact</a>
+ <a href="aboutus.aspx">About us</a>
+      <a href="Cart.aspx">My Cart</a>
+
+
+      <asp:Panel ID="PanelSearch" runat="server">
+<asp:TextBox ID="txtSearch" runat="server" placeholder="Search" Width="415px" Height="31px"></asp:TextBox>
+      &nbsp;&nbsp;
+      <asp:Button ID="btnSearch" runat="server" Text="Search" Width="93px" Height="36px" OnClick="Button2_Click1" /></asp:Panel>
+       
+      
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <asp:Button ID="Additem" runat="server" Text="Add item" CssClass="auto-style1" Height="38px" Width="118px" OnClick="Additem_Click" Visible="False" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           <asp:Button ID="Button3" runat="server" Height="36px" OnClick="Button3_Click" Text="Signout" Width="88px" />
+      <br />
+ 
+</div>
+        
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+         </form>
+</body>
+</html>
